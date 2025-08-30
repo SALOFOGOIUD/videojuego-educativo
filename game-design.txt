@@ -6,7 +6,4 @@ El jugador podrá [Diseñar todo tipo de productos, Campañas y eslogan], para a
 
 	Los estudiantes avanzarán mediante [Fama]. Cada nivel representa [La influencia y experiencia que tiene el desarrollador en el mundo de frontera], y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para [PLATAFORMAS]. Además, se implementarán características como [CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de juego fluida y atractiva.
-
-
-
+	El juego se desarrollará usando [Unity con C#] y tendrá soporte para [PC]. Además, se implementarán características como [Sistema de guardado en la nube/local, Accesibilidad, Hoja de diseño libre para ideas propias] para garantizar una experiencia de juego fluida y atractiva.
